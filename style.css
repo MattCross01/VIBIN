@@ -1,0 +1,144 @@
+.box1{
+    border: 1px solid black;
+    background-color: black;
+    height: 30px;
+}
+ul{
+    float: left;
+    color: white;
+}
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 500%;
+    width: 100px;
+    font-size: 14px;
+    font-family: barlow condensed, sans-serif;
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+h5{
+    margin-top: 15px;
+    color: white;
+    margin: 7px 12px;
+    position: relative;
+    right: 300px;
+    font-family:  barlow condensed, sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: normal;
+}
+.subbox{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+}
+ol{
+    float: left;
+}
+ol li{
+    float: left;
+    width: 90px;
+    position: relative;
+    right: -1100px;
+    list-style-type: none;
+    font-family:  barlow condensed, sans-serif;
+    font-size: 18px;
+}
+ol li a{
+    text-decoration: none;
+    color: black;
+}
+ol li a:hover{
+    border-bottom: 4px solid red;
+}
+.fa-search{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+}
+.fa-user{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+}
+.fa-shopping-cart{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+}
+h2{
+    position: relative;
+    left: -700px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    font-family: barlow condensed, sans-serif;
+    margin-top: 7px;
+    font-weight: bolder;
+    color:black;
+}
+font{
+    color: red;
+}
+.text{
+    position: absolute;
+    top: 30%;
+    left: 7%;
+}
+h1{
+    font-size: 70px;
+    font-family: barlow condensed, sans-serif;
+    text-transform: capitalize;
+    width: 460px;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 72px;
+}
+h4{
+    position: absolute;
+    top: -4%;
+    font-size: 20px;
+    font-family:barlow condensed, sans-serif ;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.cover img{
+    background-size: cover;
+    height: 530px;
+    width: 1328px;
+}
+form input[type="submit"]{
+    position: absolute;
+    top: 86%;
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: crimson;
+    border: none;
+    color: white;
+    font-family:barlow condensed, sans-serif;
+    letter-spacing: 1px;
+}
+form input[type="submit"]:hover{
+    background-color: red;
+}
+h6{
+    color: black;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    border: 1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family:barlow condensed, sans-serif ;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+}
